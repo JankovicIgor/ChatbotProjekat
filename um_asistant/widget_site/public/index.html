@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="sr">
+<head>
+  <meta charset="utf-8">
+  <title>UM Chatbot Widget — Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family:system-ui;margin:0;min-height:100vh;background:#f6f7fb;">
+  <header style="background:#8b0c2a;color:#fff;padding:16px 20px;">
+    <strong>UM Chatbot Widget — Demo</strong> <span style="opacity:.8">/ embed test</span>
+  </header>
+  <main style="max-width:900px;margin:24px auto;background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.06);padding:20px;">
+    <p>Ovo je demo stranica za prikaz <em>widgeta</em>. Server endpoint je <code>/api/chat</code>. Ako u <code>.env</code> nije postavljen <code>OPENAI_API_KEY</code>, dobićeš deminerski "fake" odgovor koji te podseća da ubaciš ključ.</p>
+    <p>Za ugradnju na klijentov sajt dovoljno je ubaciti skriptu:</p>
+    <pre><code>&lt;script src="https://YOUR_DOMAIN/embed.js"&gt;&lt;/script&gt;</code></pre>
+    <p>...ili hostovati <code>embed.js</code> lokalno.</p>
+  </main>
+  <script src="./embed.js"></script>
+</body>
+</html>

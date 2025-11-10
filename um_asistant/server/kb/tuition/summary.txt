@@ -1,0 +1,5 @@
+Školarine — orijentacioni sažetak:
+• Univerzitet objavljuje odluku o visini školarina za svaku školsku godinu (za nove i postojeće studente), kao i modele plaćanja (akontacija + rate).
+• Na stranici „Školarine” nalaze se informacije o iznosima i šta školarina obuhvata, uz primere plaćanja i rokove rata.
+• Za najtačnije vrednosti po programu i jeziku izvođenja (srpski/engleski), pogledati aktuelni dokument „Odluka o školarini” za tekuću godinu na zvaničnom sajtu.
+Napomena: iznosi, popusti i rokovi se ažuriraju po kalendaru upisa — chatbot nudi link ka zvaničnom PDF-u i stranici „Školarine” za proveru aktuelnih cifara.

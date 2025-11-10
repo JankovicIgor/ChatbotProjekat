@@ -1,0 +1,44 @@
+[
+  {
+    "q": "Kako da se prijavim za upis na Univerzitet Metropolitan?",
+    "a": "Popunite online prijavu na zvaničnoj stranici Upis ili pošaljite e‑mail na upis@metropolitan.ac.rs radi dogovora o prijavi i prijemnom.",
+    "category": "admissions",
+    "source_hint": "Upis stranice; kontakt upis@"
+  },
+  {
+    "q": "Koja dokumenta su potrebna za upis na osnovne studije?",
+    "a": "Tipično: dokaz o uplati prve rate, svedočanstva (original/overene kopije), diploma srednje škole (original/overena kopija). Za master/doktorske uslovi se razlikuju.",
+    "category": "admissions",
+    "source_hint": "Dokumentacija za upis"
+  },
+  {
+    "q": "Gde vidim školarine i rokove plaćanja?",
+    "a": "Na stranici „Školarine” i u PDF dokumentu „Odluka o školarini” za tekuću godinu. Chatbot treba da pruži direktan link ka aktuelnom dokumentu.",
+    "category": "tuition",
+    "source_hint": "Školarine; odluka o visini školarine (PDF)"
+  },
+  {
+    "q": "Koje stipendije postoje i kako da se prijavim?",
+    "a": "Postoje različiti stipendijski programi (npr. partnerske stipendije). Prijava je online; proverite aktuelne uslove i rokove na sekciji „Stipendije”.",
+    "category": "scholarships",
+    "source_hint": "Stipendije stranice i pojedinačne najave"
+  },
+  {
+    "q": "Koji su kontakt podaci univerziteta?",
+    "a": "Opšta pitanja (Beograd): info@metropolitan.ac.rs, +381 (11) 20 30 885; Niš: info.nis@metropolitan.ac.rs, +381 (18) 551 000; upis: upis@metropolitan.ac.rs; IT/Helpdesk: helpdesk@metropolitan.ac.rs.",
+    "category": "contacts",
+    "source_hint": "Kontakt stranica"
+  },
+  {
+    "q": "Gde se nalaze lokacije Univerziteta Metropolitan?",
+    "a": "Beograd — Tadeuša Košćuška 63; dodatne informacije i uputstva nalaze se na stranici Lokacije. Za Niš se informišite preko centralnih kontakata.",
+    "category": "locations",
+    "source_hint": "Lokacije univerziteta"
+  },
+  {
+    "q": "Koje su oblasti osnovnih akademskih studija?",
+    "a": "Informacione tehnologije, menadžment i digitalne umetnosti; programi su četvorogodišnji (240 ESPB).",
+    "category": "programs",
+    "source_hint": "Osnovne studije"
+  }
+]

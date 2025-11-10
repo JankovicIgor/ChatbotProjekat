@@ -1,0 +1,3 @@
+Univerzitet Metropolitan (Beograd i Niš) je privatni univerzitet sa više fakulteta i studijskih programa iz oblasti informacionih tehnologija, menadžmenta i digitalnih umetnosti. 
+Zvanični sajt obuhvata stranice: Upis, Studije (osnovne, master, doktorske), Školarine, Stipendije, Popusti i pogodnosti, Kontakt i Lokacije.
+Opšta ideja za asistent: odgovara na česta pitanja (uslovi upisa, dokumentacija, rokovi, školarine i načini plaćanja, stipendije, kontakti, lokacije, programi), i pruža relevantne linkove.
