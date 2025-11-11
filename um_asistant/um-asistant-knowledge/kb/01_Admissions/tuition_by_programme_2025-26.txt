@@ -1,0 +1,51 @@
+Tuition & Fees by Programme — 2025/26 (EUR)
+Last updated: 2025-11-11 20:00:48
+Source: https://www.metropolitan.ac.rs/upis/skolarine/
+
+== Belgrade campus — OAS (undergraduate) ==
+Programme | Annual tuition | 20% upfront | 11 monthly instalments (each)
+--- | --- | --- | ---
+Informacione tehnologije | 2,990 | 598.00 | 217.45
+Softversko inženjerstvo | 2,990 | 598.00 | 217.45
+Razvoj video igara | 2,990 | 598.00 | 217.45
+Inženjerski i operacioni menadžment | 2,490 | 498.00 | 181.09
+Digitalni biznis i marketing | 2,490 | 498.00 | 181.09
+Grafički dizajn | 3,990 | 798.00 | 290.18
+Dizajn interaktivnih medija | 3,990 | 798.00 | 290.18
+Modni dizajn | 4,290 | 858.00 | 312.00
+Engleski jezik u biznisu | 2,290 | 458.00 | 166.54
+
+== Niš campus — OAS (undergraduate) ==
+Programme | Annual tuition | 20% upfront | 11 monthly instalments (each)
+--- | --- | --- | ---
+Informacione tehnologije | 2,490 | 498.00 | 181.09
+Softversko inženjerstvo | 2,490 | 498.00 | 181.09
+Razvoj video igara | 2,490 | 498.00 | 181.09
+Biznis i marketing | 1,990 | 398.00 | 144.72
+Grafički dizajn | 3,390 | 678.00 | 246.54
+Engleski jezik u biznisu | 1,790 | 358.00 | 130.18
+
+== Belgrade campus — MAS (master) ==
+Programme | Annual tuition | 20% upfront | 11 monthly instalments (each)
+--- | --- | --- | ---
+Inteligentni i napredni softverski sistemi | 2,990 | 598.00 | 217.50
+Informacione tehnologije i sistemi — Modul 1: Informacioni sistemi i organizacija | 2,990 | 598.00 | 217.50
+Informacione tehnologije i sistemi — Modul 2: Sajber bezbednost | 2,990 | 598.00 | 217.50
+Digitalni biznis | 2,490 | 498.00 | 181.10
+Vizuelne komunikacije | 3,990 | 798.00 | 290.18
+Muzička produkcija | 4,500 | 900.00 | 327.27
+
+== Doctoral studies — tuition model ==
+Programme | Annual tuition | Payment model
+--- | --- | ---
+Softversko inženjerstvo (FIT) | 4,000 | 20% at enrolment; 3 instalments (Oct, Jan, Apr): 800, 1200, 1200
+Menadžment i razvoj (FAM) | 4,000 | same as above
+Dizajn novih medija (FDU) | 4,000 | same as above
+
+Notes (from the page):
+1) 12 monthly instalments without interest are available (OAS/MAS).  
+2) Niš centre students enjoy lower tuition; irregular attendance can revoke the discount.  
+3) 10% early-bird discount for 20% deposit paid by March 31, 2025 (first year only).
+
+PDF reference (services & fees list): 
+- 2025/26 Administrative services: https://www.metropolitan.ac.rs/files/2025/01/Odluka-o-skolarini-2025-2026.pdf

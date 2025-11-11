@@ -1,0 +1,8 @@
+BISEC — Business Information Security Conference (selection of proceedings)
+• Proceedings 2012, 2013, 2014, 2021 available via MU & BISEC subdomains.
+• Topics include information security in e-learning, privacy, security controls, etc.
+Sources:
+— 2012: https://bisec.metropolitan.ac.rs/files/bisec-zbornik-2012.pdf
+— 2013: https://bisec.metropolitan.ac.rs/wp-content/uploads/Zbornik-Finis-2013.pdf
+— 2014: https://bisec.metropolitan.ac.rs/files/Bisec-Zbornik-2014.pdf
+— 2021: https://www.metropolitan.ac.rs/files/2022/02/Proceedings-12th-International-BISEC-Conference-2021.pdf

@@ -1,0 +1,6 @@
+E-Learning conference (samples)
+• MU eLearning center hosts/archives e-learning papers touching privacy/security and learning analytics.
+Samples:
+— Information security in e-learning & quality (2013): https://elearning.metropolitan.ac.rs/files/pdf/2013/20-marjan-milosevic-danijela-milosevic-information-security-in-e-learning-the-matter-of-quality.pdf
+— Learning analytics overview (2016): https://elearning.metropolitan.ac.rs/wp-content/uploads/2016/10/02-Kristijan-Zimmer-Learning-analytics-what-do-companies-know-about-our-kids-and-we-dont.pdf
+— eLearning 2017 proceedings (PDF): https://elearning.metropolitan.ac.rs/files/Elearning-2017-final.pdf

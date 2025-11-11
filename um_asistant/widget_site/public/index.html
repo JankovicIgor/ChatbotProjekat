@@ -1,4 +1,11 @@
 <!doctype html>
+<script>
+  window.UM_WIDGET_API = 'https://um-assistant-api.jankovic-igor.workers.dev/api/chat';
+  window.UM_CLIENT_ID = 'metropolitan';
+  window.UM_THEME = { brandColor:'#8b0c2a', position:'right-bottom', radius:12, bubbleIcon:'💬' };
+</script>
+<script src="./embed.js" defer></script>
+
 <html lang="sr">
 <head>
   <meta charset="utf-8">
@@ -12,7 +19,7 @@
   <main style="max-width:900px;margin:24px auto;background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.06);padding:20px;">
     <p>Ovo je demo stranica za prikaz <em>widgeta</em>. Server endpoint je <code>/api/chat</code>. Ako u <code>.env</code> nije postavljen <code>OPENAI_API_KEY</code>, dobićeš deminerski "fake" odgovor koji te podseća da ubaciš ključ.</p>
     <p>Za ugradnju na klijentov sajt dovoljno je ubaciti skriptu:</p>
-    <pre><code>&lt;script src="https://YOUR_DOMAIN/embed.js"&gt;&lt;/script&gt;</code></pre>
+    <pre><code>&lt;script src="https://um-assistant-api.jankovic-igor.workers.dev/embed.js"&gt;&lt;/script&gt;</code></pre>
     <p>...ili hostovati <code>embed.js</code> lokalno.</p>
   </main>
   <script src="./embed.js"></script>
