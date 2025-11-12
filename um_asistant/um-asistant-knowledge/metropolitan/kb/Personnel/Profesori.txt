@@ -1,0 +1,52 @@
+Ime i prezime: prof. dr Dragan Domazet
+Uloga: Predsednik Univerziteta
+Fakultet: Fakultet informacionih tehnologija
+Predmeti: —
+Kontakt: dragan.domazet@metropolitan.ac.rs
+Profil: https://www.metropolitan.ac.rs/profesori/dr-dragan-domazet-redovni-profesor/
+Kancelarija: —
+Napomena: —
+
+---
+
+Ime i prezime: prof. mr Mitar Marinović
+Uloga: Rektor
+Fakultet: Fakultet informacionih tehnologija
+Predmeti: —
+Kontakt: mitar.marinovic@metropolitan.ac.rs
+Profil: https://www.metropolitan.ac.rs/profesori/mr-mitar-marinovic-redovni-profesor/
+Kancelarija: —
+Napomena: —
+
+---
+
+Ime i prezime: prof. dr Nemanja Zdravković
+Uloga: Dekan
+Fakultet: Fakultet informacionih tehnologija
+Predmeti: Računarske mreže, Arhitektura računara, Operativni sistemi, Skripting jezici, Blokčejn tehnologije, Upravljanje projektima razvoja softvera, Evolucija softvera, Mašinsko učenje
+Kontakt: nemanja.zdravkovic@metropolitan.ac.rs
+Profil: https://www.metropolitan.ac.rs/profesori/nemanja-zdravkovic/
+Kancelarija: —
+Napomena: —
+
+---
+
+Ime i prezime: prof. dr Miljan Milošević
+Uloga: Redovni profesor
+Fakultet: Fakultet informacionih tehnologija
+Predmeti: Razvoj video igara
+Kontakt: miljan.milosevic@metropolitan.ac.rs
+Profil: https://www.metropolitan.ac.rs/profesori/miljan-milosevic/
+Kancelarija: —
+Napomena: —
+
+---
+
+Ime i prezime: prof. dr Aleksandar Jankulović
+Uloga: Vanredni profesor
+Fakultet: Fakultet informacionih tehnologija
+Predmeti: —
+Kontakt: aleksandar.jankulovic@metropolitan.ac.rs
+Profil: https://www.metropolitan.ac.rs/profesori/aleksandar-jankulovic/
+Kancelarija: —
+Napomena: —

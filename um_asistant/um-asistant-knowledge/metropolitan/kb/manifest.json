@@ -29,7 +29,7 @@
     "04_Accreditation/akreditacija_sazetak_i_linkovi.txt",
     "05_Locations/campus_facilities_notes.txt",
     "05_Locations/kampusi_i_opis.txt",
-    "06_Links/svi_kljucni_linkovi.json",
+    "Links/svi_kljucni_linkovi.json",
     "07_International/erasmus_overview_and_calls.txt",
     "07_International/international_cooperation_overview.txt",
     "07_International/participation_in_mobility.txt",
@@ -38,6 +38,7 @@
     "09_Graduate_Programs/fit_information_technologies_en.txt",
     "09_Graduate_Programs/mas_information_security_en.txt",
     "10_Student_Life_And_Locations/about_belgrade_transport.txt",
-    "11_Dissertations_and_CVs/doctoral_dissertations_selection.txt"
+    "11_Dissertations_and_CVs/doctoral_dissertations_selection.txt",
+	"Personel/profesori"
   ]
 }
